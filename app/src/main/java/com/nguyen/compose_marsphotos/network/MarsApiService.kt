@@ -1,5 +1,6 @@
 package com.nguyen.compose_marsphotos.network
 
+import com.nguyen.compose_marsphotos.model.MarsPhoto
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 import retrofit2.http.GET

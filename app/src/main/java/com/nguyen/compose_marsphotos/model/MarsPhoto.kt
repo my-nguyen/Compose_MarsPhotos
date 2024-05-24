@@ -1,4 +1,4 @@
-package com.nguyen.compose_marsphotos.network
+package com.nguyen.compose_marsphotos.model
 
 import java.io.Serializable
 
