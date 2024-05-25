@@ -1,3 +1,16 @@
+NOTE: I got stuck while working on page titled "3. Display a downloaded image"
+Specifically, the app is supposed to run and show:
+First Mars image URL:
+https://mars.jpl.nasa.gov/....
+
+But the app only shows:
+First Mars image URL: null
+
+However, there's another project named ComposeMarsPhotos which completed this entire Codelab with no
+problem. Refer to it for completeness: https://github.com/my-nguyen/ComposeMarsPhotos.git
+
+So I'm going to stop working here.
+
 Mars Photos
 ==================================
 
